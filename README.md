@@ -1,5 +1,5 @@
 # shared_preferences  
-A new Flutter project for work with internal DataBase ().
+A new Flutter project for work with internal DataBase (shared_preferences).
 
 ## challenges  
 
